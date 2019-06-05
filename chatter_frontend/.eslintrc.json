@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "airbnb",
+    "plugin-prettier/recommend",
+    "plugin-jsx-a11y/recommend",
+    "eslint:recommended",
+    "react:recommended",
+    "plugin:react/recommended"
+  ],
+  "plugins": ["prettier", "jsx-a11y"],
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  }
+}
