@@ -1,0 +1,13 @@
+{
+  "name": "chatter_api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "install": "./install.sh",
+    "backend": "cd chatter_backend && npm start",
+    "frontend": "cd chatter_frontend && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
